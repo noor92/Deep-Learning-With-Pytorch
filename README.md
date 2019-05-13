@@ -1,10 +1,5 @@
-# Deep Learning with PyTorch
+# Deep Learning (PyTorch)
 
-This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in the [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
+This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of  notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
 
-* **Part 1:** Introduction to PyTorch and using tensors
-* **Part 2:** Building fully-connected neural networks with PyTorch
-* **Part 3:** How to train a fully-connected network with backpropagation on MNIST
-* **Part 4:** Exercise - train a neural network on Fashion-MNIST
-* **Part 5:** Using a trained network for making predictions and validating networks
-* **Part 6:** How to save and load trained models
+There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers).
