@@ -2,3 +2,7 @@
 intro-to-pytorch/\.DS_Store
 
 \.DS_Store
+
+recurrent-neural-networks/time-series/\.ipynb_checkpoints/
+
+recurrent-neural-networks/char-rnn/\.ipynb_checkpoints/
